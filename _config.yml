@@ -43,7 +43,6 @@ texture:
     linkedIn: in/lborgesclarissa # format: locale/username
 
   style: [black]
-  showNav: true
 
 show_excerpts: true
 
