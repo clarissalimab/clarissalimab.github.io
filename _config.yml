@@ -23,7 +23,7 @@ email: clarissalimab08@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Brazilian Software Engineering student, FOSS enthusiastic, GNOME contributor and animal lover.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.clarissaborges.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.clarissaborges.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lborgesclarissa
 github_username:  clarissalimab
 
