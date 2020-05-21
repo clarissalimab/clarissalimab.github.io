@@ -3,6 +3,7 @@ layout: post
 title:  "Types of Usability Testing"
 date:   2018-12-11 15:00:0 -0300
 tags: outreachy gnome usability research
+author: Clarissa Borges
 ---
 
 There are many different ways of testing usability, and this is because every test has a main objective and a context where it is better to be applied on. Deciding on which kind of test you are going to use depends on what do you have of your product and what are you trying to find out about it.

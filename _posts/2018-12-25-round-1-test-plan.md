@@ -3,6 +3,7 @@ layout: post
 title:  "Round#1: Test plan"
 date:   2018-12-25 20:00:0 -0300
 tags: outreachy gnome usability sound-settings test-plan
+author: Clarissa Borges
 ---
 In the first round of tests, I will be testing a new design for the sound settings with 7 volunteers. The tasks to be tested are:
 

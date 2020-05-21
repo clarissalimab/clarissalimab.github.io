@@ -3,6 +3,7 @@ layout: post
 title:  "About GUADEC from a newcomer"
 date:   2019-10-09 20:00:0 -0300
 tags: guadec gnome personal
+author: Clarissa Borges
 ---
 This year I attended to GUADEC for the first time. It was also my first conference ever, I’ve never been to a FOSS conference or any other kind of conference. Maybe what I have to share about the whole experience is not something new to anyone who attends to conference with some frequency, or maybe it is something they don’t really even notice since they are already used to the whole environment 😛 Anyway, I am hoping my report encourages folks who have never been to GUADEC or other FOSS conferences.
 

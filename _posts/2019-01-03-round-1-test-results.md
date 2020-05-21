@@ -3,6 +3,7 @@ layout: post
 title:  "Round#1: Test Results"
 date:   2019-01-03 15:00:0 -0300
 tags: outreachy gnome usability test-results sound-settings
+author: Clarissa Borges
 ---
 
 For the first round of tests, I tested a new GNOME Sound Settings design. The tasks to be tested were:

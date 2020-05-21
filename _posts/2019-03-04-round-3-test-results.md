@@ -3,6 +3,7 @@ layout: post
 title:  "Round#3: Test Results"
 date:   2019-03-04 15:00:0 -0300
 tags: outreachy gnome usability test-results gedit
+author: Clarissa Borges
 ---
 
 For the last round of tests, I tested GNOME’s Text Editor (gedit) design. As I already tested gedit once (you can see the first test plan and results [here](https://medium.com/gnome-usability-testing-report/gnome-usability-testing-report-93320514ea86)), I used the same test plan with two additional tasks.

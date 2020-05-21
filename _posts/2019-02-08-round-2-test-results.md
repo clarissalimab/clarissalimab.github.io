@@ -3,6 +3,7 @@ layout: post
 title:  "Round#2: Test Results"
 date:   2019-02-08 15:00:0 -0300
 tags: [outreachy, gnome, usability, test-plan, files, nautilus, notes]
+author: Clarissa Borges
 ---
 
 For the second round of tests, I tested new designs for Files and Notes GNOME’s programs. I’ve written tasks and scenarios for some important features from both programs I found interesting, but the most important things to be tested that Allan Day required me to test were the programs’ menus.

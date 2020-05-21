@@ -3,6 +3,7 @@ layout: post
 title:  "Round#3: Test Plan"
 date:   2019-02-15 15:00:0 -0300
 tags: outreachy gnome usability test-plan gedit
+author: Clarissa Borges
 ---
 
 For round 3, I was required to test Gedit’s design after I tested on my first contribution. As I was going to test the same application and compare results, I used the same [test plan](https://medium.com/gnome-usability-testing-report/gnome-usability-testing-report-93320514ea86) I used before with two more tasks that Allan asked to include.

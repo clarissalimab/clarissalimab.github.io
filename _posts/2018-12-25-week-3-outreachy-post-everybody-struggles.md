@@ -3,6 +3,7 @@ layout: post
 title:  "Week#3 Outreachy Post: Everybody struggles"
 date:   2018-12-25 15:00:0 -0300
 tags: outreachy gnome personal
+author: Clarissa Borges
 ---
 As we are expected to write sometimes about our experience during the internship, the Outreachy Organizers suggested us to write about the difficulties we find during our journey (which I find a very interesting theme, because sometimes I feel a bit lost compared to other interns, and being asked share my doubts gives me a clue that I’m not alone at all with those issues).
 

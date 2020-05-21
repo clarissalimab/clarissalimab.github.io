@@ -3,6 +3,7 @@ layout: post
 title:  "Final internship report"
 date:   2019-03-04 20:00:0 -0300
 tags: outreachy gnome personal
+author: Clarissa Borges
 ---
 
 Today is my last day as an Outreachy intern for GNOME. My mentor, Jim Hall, encouraged me to write some topics about the work I developed during the internship and I will add some more that may be useful for readers who may want to apply on next rounds.

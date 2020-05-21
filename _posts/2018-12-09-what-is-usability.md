@@ -3,6 +3,7 @@ layout: post
 title:  "What is usability?"
 date:   2018-12-09 15:00:0 -0300
 tags: outreachy gnome usability research
+author: Clarissa Borges
 ---
 
 According to [this definition](https://www.interaction-design.org/literature/topics/usability), usability is the ease to access and/ or use a program or website. I’d extend this definition to other stuff we see day by day, such as emergency doors, teapots, windows, and so on. We say the more intuitive it is to use something, the better its usability. Usability is important not only to make sure users can actually use our product, but to make sure they like using it and that they’ll keep doing so.

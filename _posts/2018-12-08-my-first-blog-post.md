@@ -3,6 +3,7 @@ layout: post
 title:  "My first blog post!"
 date:   2018-12-08 15:00:0 -0300
 tags: outreachy gnome usability personal
+author: Clarissa Borges
 ---
 
 Hello, folks! This post is to introduce you myself and to the work I’ll be developing. My intention is to leave some brief documentation to the ones who want to follow what I’ve been doing and to the ones who want to apply to the next Outreachy rounds, I hope this is useful for you!

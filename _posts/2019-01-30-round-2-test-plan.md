@@ -3,6 +3,7 @@ layout: post
 title:  "Round#2: Test Plan"
 date:   2019-01-30 15:00:0 -0300
 tags: [outreachy, gnome, usability, test-plan, files, nautilus, notes]
+author: Clarissa Borges
 ---
 
 For this round, Allan Day required me to test some applications, specifically menus. In that way, we chose two applications to test:
